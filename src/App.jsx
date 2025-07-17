@@ -1,7 +1,7 @@
 
-import Navbar from "./navbar" 
+import Navbar from "./navbar.jsx" 
 import Footer from "/Footer.jsx"
-import Links from "/Link.js"
+import Links from "/Link.jsx"
 
 function App() {
   
