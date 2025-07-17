@@ -1,9 +1,13 @@
 
+import Navbar from './navbar';
 
-function App()  {
+function App() {
   return (
-    <></>
-  )
+
+    <>
+      <Navbar />
+    </>
+ )
 }
 
 export default App
