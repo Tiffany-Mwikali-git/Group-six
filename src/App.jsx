@@ -1,11 +1,17 @@
 
-import Navbar from './navbar';
+import Links from './Links';
 
 function App() {
+  
+
   return (
 
     <>
-      <Navbar />
+
+      <Links />
+
+      
+
     </>
  )
 }
