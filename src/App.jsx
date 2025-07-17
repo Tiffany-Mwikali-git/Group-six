@@ -7,9 +7,10 @@ function App() {
   
   return (
     <>
+   <Navbar />
    <Links />
    <Footer/>
-  <Navbar />
+  
     </>
  )
 
