@@ -1,19 +1,17 @@
 
-import Links from './Links';
+
+import Footer from "/Footer.jsx"
+import Links from "/Link.js"
 
 function App() {
   
-
   return (
-
     <>
-
-      <Links />
-
-      
-
+   <Links />
+   <Footer/>
     </>
  )
+
 }
 
 export default App
